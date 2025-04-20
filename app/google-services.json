@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "54185871158",
+    "firebase_url": "https://trackus-f4008-default-rtdb.firebaseio.com",
+    "project_id": "trackus-f4008",
+    "storage_bucket": "trackus-f4008.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54185871158:android:d3d4925c90e8aa5f329597",
+        "android_client_info": {
+          "package_name": "com.example.emergencyassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkn04WLhUneYarkc1lvVHYpz2dcpIs2dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54185871158:android:c8b20d15f95bde78329597",
+        "android_client_info": {
+          "package_name": "com.example.trackus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkn04WLhUneYarkc1lvVHYpz2dcpIs2dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
